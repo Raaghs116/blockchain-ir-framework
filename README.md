@@ -28,4 +28,4 @@ This repository contains the source code for a blockchain-based cybersecurity in
 6. **Outputs:** Blockchain logs at `http://127.0.0.1:8545`, IPFS hashes via Pinata (requires API key from pinata.cloud), terminal classification results.
 
 ## Citation
-Madhusudan, R. J. (2025). Blockchain-based incident response framework source code [Computer software]. GitHub. [repo-url] (Accessed March 23, 2025)
+Madhusudan, R. J. (2025). Blockchain-based incident response framework source code [Computer software]. GitHub. https://github.com/Raaghs116/blockchain-ir-framework
